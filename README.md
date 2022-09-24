@@ -1,8 +1,8 @@
 ## Olá! Me chamo Renan Zaffani
 
-- 🔭 Hoje trabalho como suporte
+- 🔭 Analista de Sistemas
 - 🌱 Estudante de Engenharia de Computação
-- 🌱 Estudando Python
+- 🌱 Aspirante a DEV
 - 📫 Contate-me no e-mail: renanferro123@hotmail.com
 
 
