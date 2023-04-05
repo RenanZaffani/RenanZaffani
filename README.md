@@ -1,8 +1,7 @@
 ## Olá! Me chamo Renan Zaffani
 
 - 🔭 Analista de Sistemas
-- 🌱 Estudante de Engenharia de Computação
-- 🌱 Aspirante a DEV
+- 🌱 Engenharia de Computação
 - 📫 Contate-me no e-mail: renanferro123@hotmail.com
 
 
